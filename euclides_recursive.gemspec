@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "euclides_recursive"
   spec.version       = EuclidesRecursive::VERSION
   spec.authors       = ["Ivan Garcia"]
-  spec.email         = ["ivandevp@gmail.com"]
+  spec.email         = ["vavimayor159@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = 'Just another implementation of the euclides algorithm'
+  spec.description   = "This is just another implementation that I'm writing for the Euclides algorithm"
+  spec.homepage      = "https://github.com/vavimayor159/euclides_recursive"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
