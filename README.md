@@ -1,9 +1,6 @@
 # EuclidesRecursive
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/euclides_recursive`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
+Just another implementation of the euclides algorithm, if you want to contribute feel free
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -22,7 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just include the Mixin in your classes and call the `mcd` method with two numbers, example:
+`mcd(5,3)`
 
 ## Development
 
